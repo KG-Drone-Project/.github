@@ -13,10 +13,10 @@ Welcome to my organization for my Drone project, a space where I am developping 
    - Generated PWM signals to drive the brushless motors.
 
 [**FlySky-Receiver**](https://github.com/KG-Drone-Project/FlySky-Receiver)
-   - *Status: In Progress*
+   - *Status: Completed*
    - This repository is a work in progress for FlySky Radio receiver integration.
    - Currently, the IBUSBM protocol working which is essentially uart communication.
-   - Data processing needs to be completed
+   - Data processing is completed
 
 **PID Control** 
   - *Status: Pending*
