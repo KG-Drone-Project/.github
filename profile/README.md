@@ -26,5 +26,3 @@ Welcome to my organization for my Drone project, a space where I am developping 
 ## About RTIC and Rust
 
 My projects leverage the Real-Time Interrupt-driven Concurrency (RTIC) framework to handle concurrent tasks efficiently. Rust, with its focus on memory safety and performance, serves as the primary programming language, ensuring the reliability of my flight controllers. 
-
-Join me on this journey to redefine embedded flight control systems. Happy flying!
